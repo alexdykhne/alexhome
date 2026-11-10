@@ -66,7 +66,7 @@ const photos = [
   {id:"cakes-064",name:"Ягодный торт с физалисом и сахарной пудрой",category:"cakes",image:"assets/photos/cakes-064.webp",thumb:"assets/photos/cakes-064-thumb.webp",group:"dessert"},
   {id:"cakes-065",name:"Ягодный торт с шоколадными клубниками",category:"cakes",image:"assets/photos/cakes-065.webp",thumb:"assets/photos/cakes-065-thumb.webp",group:"dessert"},
   {id:"cakes-066",name:"Яркий торт «СЕМА» на два года",category:"cakes",image:"assets/photos/cakes-066.webp",thumb:"assets/photos/cakes-066-thumb.webp",group:"kids"},
-  {id:"cakes-067",name:"Красный праздничный торт с белым кремом",category:"cakes",image:"assets/photos/cakes-067.png",thumb:"assets/photos/cakes-067.png",group:"birthday"},
+  {id:"cakes-067",name:"Красный праздничный торт с белым кремом",category:"cakes",image:"assets/photos/cakes-067.webp",thumb:"assets/photos/cakes-067.webp",group:"birthday"},
   {id:"tables-071",name:"Уютный праздничный бранч за солнечным столом",category:"tables",image:"assets/photos/tables-071.webp",thumb:"assets/photos/tables-071-thumb.webp",group:"feast"},
   {id:"tables-072",name:"Праздничный салат «Подсолнух» на кружевной скатерти",category:"tables",image:"assets/photos/tables-072.webp",thumb:"assets/photos/tables-072-thumb.webp",group:"feast"},
   {id:"tables-073",name:"Праздничный стол с домашними угощениями",category:"tables",image:"assets/photos/tables-073.webp",thumb:"assets/photos/tables-073-thumb.webp",group:"feast"},
